@@ -1,0 +1,1 @@
+# Direct-Paradigm-Strategist-React
